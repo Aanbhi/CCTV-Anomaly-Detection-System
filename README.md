@@ -30,8 +30,8 @@ pip install streamlit opencv-python-headless numpy Pillow
 
 1. Clone the repository:
 
-git clone https://github.com/Aanbhi/anomaly-detection-streamlit.git
-cd anomaly-detection-streamlit
+git clone https://github.com/Aanbhi/CCTV-Anomaly-Detection-System.git
+cd CCTV-Anomaly-Detection-System
 
 2. Run the Streamlit app:
 
