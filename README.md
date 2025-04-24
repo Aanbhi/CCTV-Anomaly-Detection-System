@@ -42,7 +42,7 @@ streamlit run code.py
 
 📦 File Structure
 
-├── app.py             # Main Streamlit application
+├── code.py             # Main Streamlit application
 
 ├── README.md          # Project documentation
 
