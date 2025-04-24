@@ -43,7 +43,9 @@ streamlit run app.py
 📦 File Structure
 
 ├── app.py             # Main Streamlit application
+
 ├── README.md          # Project documentation
+
 └── requirements.txt   # Python dependencies (optional)
 
 
