@@ -35,7 +35,7 @@ cd CCTV-Anomaly-Detection-System
 
 2. Run the Streamlit app:
 
-streamlit run app.py
+streamlit run code.py
 
 3. Upload a video file (.mp4, .avi, .mov) through the interface to begin anomaly detection.
 
