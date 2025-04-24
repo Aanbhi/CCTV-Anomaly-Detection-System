@@ -1,4 +1,4 @@
-🚨 Anomaly Detection System Using Streamlit
+🚨 Anomaly Detection System 
 
 This project is a real-time anomaly detection system designed to analyze CCTV footage and highlight unusual activity. It uses OpenCV for frame processing and Streamlit for a modern, interactive web interface.
 
