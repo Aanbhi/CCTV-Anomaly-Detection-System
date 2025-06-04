@@ -42,7 +42,22 @@ streamlit run code.py
 
 📦 File Structure
 
+FORMAT - 1 
+
 ├── code.py             # Main Streamlit application
+
+FORMAT - 2
+
+cctv_anomaly_detection/
+
+├── app.py                  # Streamlit main app
+
+├── css.py                 # Custom CSS styling
+
+├── utils.py               # Utility functions (anomaly detection, image conversion)
+
+└── video_handler.py       # Video upload and processing
+
 
 ├── README.md          # Project documentation
 
